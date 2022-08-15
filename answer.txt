@@ -1,0 +1,14 @@
+GIT ADD
+- It is to declare a change to the staging area (whether a file was added or a change to a file was added).
+It does not affect the working directory whatsoever.
+In short, it selects changes to be committed.
+
+GIT COMMIT 
+It takes current snapshot of the working repository.
+It saves the changes you have made in your files.
+It also saves revision of your code so that you can revert back to previous versions anytime.
+In short, it records changes from your repository.
+
+GIT PUSH
+Upload the commits from your local repository to the remote repository.
+In short, it uploads the local changes to your remote repository.
